@@ -17,6 +17,6 @@ Este projeto tem como objetivo recriar o clássico jogo **Detona Ralph** utiliza
 
 ## Repositório do Projeto
 
-- [Detona Ralph GitHub]([https://nivaldo-nilngn.github.io/Detona-Ralph/])
+- [Detona Ralph GitHub](https://nivaldo-nilngn.github.io/Detona-Ralph/)
 
 Este projeto representa uma prática completa de desenvolvimento de jogos utilizando tecnologias web, com foco em interação, mecânicas de jogo e organização de código.
